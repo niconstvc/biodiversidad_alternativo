@@ -1,0 +1,67 @@
+[
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P001",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional."],
+    "name": "Articulos de Jardineria",
+    "price": 10590
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P002",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional."],
+    "name": "Basurero",
+    "price": 16890
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P003",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional."],
+    "name": "Fertilizante",
+    "price": 13890
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P004",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional."],
+    "name": "Composta.",
+    "price": 16890
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P005",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional"],
+    "name": "Bebedero de Ave",
+    "price": 15390
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P006",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Semillas"],
+    "name": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "price": 15390
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P007",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Kit de jardineria"],
+    "name": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "price": 13890
+  },
+  {
+    "desc": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "id": "P008",
+    "img": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": ["Basureros"],
+    "name": "Producto de alta calidad, diseñado para ofrecer una experiencia excepcional. Ideal para cualquier tipo de usuario que busque algo único y funcional.",
+    "price": 19890
+  }
+  
+]
